@@ -65,7 +65,7 @@ require (
 	golang.org/x/crypto v0.11.0
 	golang.org/x/oauth2 v0.8.0
 	google.golang.org/api v0.126.0
-	google.golang.org/grpc v1.56.2
+	google.golang.org/grpc v1.56.3
 	gopkg.in/square/go-jose.v2 v2.6.0
 )
 
